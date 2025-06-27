@@ -126,7 +126,7 @@ Visita mi CV online para un vistazo profundo a mi perfil híbrido: la combinaci�
         <div class="section">
             <h2>PERFIL PROFESIONAL</h2>
             <p>Desarrollador de Software y Especialista en Analítica de Datos con sólida experiencia en Transformación Digital, Automatización y Estrategias de Crecimiento (Growth Hacking). Mi trayectoria de más de 10 años en roles comerciales y de negocio me permite traducir insights de datos en soluciones tecnológicas de alto impacto que impulsan el crecimiento y la eficiencia operativa.</p>
-            <p>Experto en ETL, modelado y análisis de datos accionables utilizando Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, Bokeh), Power BI y Looker Studio. Domino la integración de APIs, SQL y el uso de herramientas de CRM (HubSpot, Salesforce, Mobilia, MLS CRM, Lonja de Propiedad Raíz CRM) para optimizar el ciclo de vida del cliente y el pipeline de negocio. Además, cuento con experiencia en la automatización de reportes (RPA) y la generación de insights clave para la toma de decisiones estratégicas, optimizando activos digitales y mejorando KPIs.</p>
+            <p>Experto en ETL, modelado y análisis de datos accionables utilizando Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, Bokeh), Power BI y Looker Studio. Domino la integración de APIs, SQL y el uso de herramientas de CRM (HubSpot, Salesforce) para optimizar el ciclo de vida del cliente y el pipeline de negocio. Además, cuento con experiencia en la automatización de reportes (RPA) y la generación de insights clave para la toma de decisiones estratégicas, optimizando activos digitales y mejorando KPIs.</p>
             <p>Soy una persona altamente orientada a resultados con datos, con una probada capacidad de resolución de problemas complejos, curiosidad innata, espíritu innovador y excelentes habilidades de comunicación y trabajo en equipo. Busco roles donde pueda aplicar mi visión integral de negocio y tecnología para potenciar la analítica, tecnología comercial, CRM, growth marketing y automatización.</p>
         </div>
 
@@ -134,6 +134,7 @@ Visita mi CV online para un vistazo profundo a mi perfil híbrido: la combinaci�
             <h2>COMPETENCIAS TÉCNICAS</h2>
             <div class="skills-list">
                 <span class="skill-tag">Análisis de Datos y BI</span>
+                <span class="skill-tag">React</span>
                 <span class="skill-tag">Power BI</span>
                 <span class="skill-tag">Google Data Studio (Looker Studio)</span>
                 <span class="skill-tag">ETL</span>
@@ -151,12 +152,11 @@ Visita mi CV online para un vistazo profundo a mi perfil híbrido: la combinaci�
                 <span class="skill-tag">Dash</span>
                 <span class="skill-tag">Streamlit</span>
                 <span class="skill-tag">Google Colab</span>
-                <span class="skill-tag">Consola</span>
                 <span class="skill-tag">Git</span>
                 <span class="skill-tag">Transformación Digital</span>
                 <span class="skill-tag">Growth Hacking</span>
                 <span class="skill-tag">Automatización de Procesos</span>
-                <span class="skill-tag">CRM (HubSpot, Salesforce, Mobilia, MLS CRM, Lonja de Propiedad Raíz CRM)</span>
+                <span class="skill-tag">CRM (HubSpot, Salesforce)</span>
                 <span class="skill-tag">SQL</span>
                 <span class="skill-tag">Bases de Datos Relacionales y No Relacionales</span>
             </div>
